@@ -1,4 +1,8 @@
 _repo: Dave-Dashaway-Around-the-World-or-A-Young-Yankee-Aviator-Among-Many-Nations_50323
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50323-h/images/cover.jpg
 creator:
   author:
     agent_name: Rockwood, Roy
@@ -6,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50323#Dave-Dashaway-Around-the-World-or-A-Young-Yankee-Aviator-Among-Many-Nations
 gutenberg_issued: '2015-10-27'
 gutenberg_type: Text
 identifiers:
