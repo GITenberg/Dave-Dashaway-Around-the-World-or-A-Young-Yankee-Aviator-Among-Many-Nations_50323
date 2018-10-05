@@ -20,6 +20,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Dave Dashaway Around the World
 
   or A Young Yankee Aviator Among Many Nations'
